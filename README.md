@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Indrani Sen
 
 <!--
 **indranigit/indranigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter%2FIndraniSen17
