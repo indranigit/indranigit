@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Indrani Sen
 I am a 3rd Year Undergraduate Student at Birla Institute of Technology Mesra.
-
+- 🌱 I’m currently studying Mathematics and Computing.
+- 🔭 I’m currently working on Web Development
 <!--
 **indranigit/indranigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
