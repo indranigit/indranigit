@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2Ftwitter%2FIndraniSen17)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+<!--![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indranigit&layout=compact)](https://github.com/indranigit/github-readme-stats)
 
