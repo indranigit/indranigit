@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2Ftwitter%2FIndraniSen17)
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
