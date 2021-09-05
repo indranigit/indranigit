@@ -4,6 +4,7 @@
 I am a 3rd Year Undergraduate Student at Birla Institute of Technology Mesra.
 - 🌱 I’m currently studying Mathematics and Computing.
 - 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I ❤️ to play badminton.
 -  💬 Ask me about Web Development and DSA 
