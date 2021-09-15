@@ -59,6 +59,8 @@ Here are some ideas to get you started:
         <img  width="70px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
     <a href="mailto:sen.indrani0608@gmail.com">
         <img  width="60px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+     <a href="https://leetcode.com/indrani_sen/">
+         <img  width="74px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
 
 </p>
 
