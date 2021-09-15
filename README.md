@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)-->
 
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indranigit&layout=compact&langs_count=8&theme=algolia"/>
@@ -51,9 +48,9 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-## Reach Me
+### ✍🏻 &nbsp;Reach Out to Me
 
-<p id="socialIcons" align="center">
+<p id="socialIcons" align="left">
     <a href="https://www.linkedin.com/in/indrani-sen-4186671a5" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
     <a href="https://www.hackerrank.com/sen_indrani0608" alt="HackerRank">
