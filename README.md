@@ -6,8 +6,9 @@ I am a 3rd Year Undergraduate Student at Birla Institute of Technology Mesra.
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I ❤️ to play badminton.
 -  💬 Ask me about Web Development,DSA, Machine Learning and Deep Learning! 
+- ⚡ Fun fact: I ❤️ to play badminton, read novels, follow spirituality.
+
 <!--
 **indranigit/indranigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-### ✍🏻 &nbsp;Reach Out to Me
+### ✍🏻 &nbsp;Other Profiles
 
 <p id="socialIcons" align="left">
     <a href="https://www.linkedin.com/in/indrani-sen-4186671a5" alt="LinkedIn">
@@ -61,6 +62,8 @@ Here are some ideas to get you started:
         <img  width="60px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
      <a href="https://leetcode.com/indrani_sen/">
          <img  width="74px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+     <a href="https://github.com/indranigit">
+          <img width="85px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 </p>
 
