@@ -1,11 +1,10 @@
 ### Hi there 👋, I am Indrani Sen
 
 
-I am a 3rd Year Undergraduate Student at Birla Institute of Technology Mesra.
-- 🌱 I’m currently studying Mathematics and Computing.
-- 🔭 I’m currently working on Web Development
+I am a Software Engineer at Oracle.
+- 🌱 I studied Mathematics and Computing from BIT Mesra.
+- 🔭 I work on Web Development
 - 👯 I’m looking to collaborate on Open Source
-- 🌱 I’m currently learning Data Structures and Algorithms
 - 😄 Pronouns: She/her
 -  💬 Ask me about Web Development,DSA, Machine Learning and Deep Learning! 
 - ⚡ Fun fact: I ❤️ to play badminton, read novels, follow spirituality.
